@@ -1,0 +1,105 @@
+p {
+    font-family: 'Roboto', sans-serif;
+    color: gray;
+    letter-spacing: 1px;
+}
+.menu {
+    font-weight: bold;
+}
+.header-area  {
+    background-color: #FFFBF0;
+}
+.fashion-image img {
+    width: 100%;
+}
+.fashion-intro h1 {
+    font-size: 60px ;
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+    margin-top: 30px;
+}
+
+.jacket-area h2 {
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1px; 
+    font-size: 40px;
+    margin-bottom: 30px;
+    
+}
+.highlight {
+    color: #FABE4C;
+}
+.jackets img {
+    padding: 8px;
+    margin-left: 45px ;
+    margin-top: 30px;
+    background-color: #F1F1F1;
+    border-radius: 15px;
+    height: 300px;
+    
+}
+.jacket-area h3 {
+    font-size: 30px;
+    color: #FABE4C;
+    font-weight: bold;
+    margin-top: 54x;
+    
+}
+.sell-area {
+    background-color: #FFFBF0;
+    border: 1px solid transparent;
+    border-radius: 10px;
+}
+.sell-area h3 {
+    font-size: 35px;
+    color: #FABE4C;
+    font-weight: bold;
+    margin-top: 54x;
+}
+.top-sell {
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1px; 
+    font-size: 40px;
+    padding-top: 30px;
+    margin-bottom: 30px;
+}
+.contact-area {
+    padding-top: 50px;
+}
+.shops {
+    border: 1px solid transparent;
+    border-radius: 10px;
+    
+}
+.shops h5 {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+.shop-image img {
+    margin-top: 70px;
+    margin-left: 50px;
+}
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 768px) {
+    .shops img  {
+        width: 30%;   
+        
+    }
+    .shops {
+        text-align: center;
+    }
+    .shop-image img {
+        width: 80%;
+        margin-bottom: 20px;
+        margin-top: 30px;
+    }
+}
